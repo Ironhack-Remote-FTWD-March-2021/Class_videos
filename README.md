@@ -134,9 +134,9 @@ Morning - https://ironhack.zoom.us/rec/share/1jaZ7inrFKrKHHrW_GlnomL_9wy4n4jX99z
 
 Morning - https://ironhack.zoom.us/rec/share/3sB-yiPqF9-iKnldLqzZH5kOr8_vwdrH-jZYsxvI_j3YYPiIY7SU68uVQ_7Xb0YX.UE1wjFBPK1VuxiQW?startTime=1619615072000
 
-### Day 5 (April 30)
+### Day 5 (PROJECT DAY - April 30)
 
-Morning - https://ironhack.zoom.us/rec/share/mjUiAMwTS42F14zHbZo8bC9IQSuo93aUJXG-BCGuF2T-A45muxcdntawJHh9nYmw.oqNVMy2UfNsNgY-w?startTime=1619791379000
+Afternoon - https://ironhack.zoom.us/rec/share/mjUiAMwTS42F14zHbZo8bC9IQSuo93aUJXG-BCGuF2T-A45muxcdntawJHh9nYmw.oqNVMy2UfNsNgY-w?startTime=1619791379000
 
 ## Week 7
 ### Day 1 (May 3)
